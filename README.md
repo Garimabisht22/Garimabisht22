@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garimabisht
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning FLutter
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me :: bisht.garima01@gmail.com
 
 <!---
