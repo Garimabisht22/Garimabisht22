@@ -3,8 +3,9 @@
 
                                                         👋 Hey, I’m @Garimabisht
      
-     
+- ❤I am a Flutter Developer.     
 - 🌱 I’m currently learning Angular
+- 👀 A blog not updated :: https://miss.code.blog/
 - 📫 How to reach me :: bisht.garima01@gmail.com
 
 ## ✉️ Find me on:
