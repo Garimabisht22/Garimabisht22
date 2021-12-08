@@ -1,6 +1,9 @@
+<p align="center">
+<img src="https://github.com/Garimabisht22/images/blob/main/Hello%20fellas%20(1).png?raw=true" alt="logo" style="vertical-align:top; margin:4px"> </p>
 
-
-- 👋 Hi, I’m @Garimabisht
+                                                        👋 Hey, I’m @Garimabisht
+     
+     
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me :: bisht.garima01@gmail.com
 
