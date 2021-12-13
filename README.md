@@ -3,7 +3,7 @@
 
                                                         👋 Hey, I’m @Garimabisht22
      
-- ❤I am a Flutter Developer.     
+- ❤  I'm a Flutter Developer.     
 - 🌱 I’m currently learning Angular
 - 👀 A blog not updated :: https://miss.code.blog/
 - 📫 How to reach me :: bisht.garima01@gmail.com
@@ -11,9 +11,12 @@
 ## ✉️ Find me on:
 
 <p align="center">
+<a href="https://www.codechef.com/users/dignity_01" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Garimabisht22/images/blob/main/codechef-svgrepo-com.svg" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://miss.code.blog/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/garima-bisht-2206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="bisht.garima01@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.hackerrank.com/bisht_garima01"> <img src="https://raw.githubusercontent.com/Garimabisht22/images/d1b42e9b2469b9115f3d690cf415e88c201b8688/hackerRank.svg?token=AMGMJGVGHMWM2HF7OJU4W3DBW33IK" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+
 </p>
 
 <!---
