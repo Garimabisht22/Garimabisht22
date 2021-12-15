@@ -15,7 +15,7 @@
  <a href="https://miss.code.blog/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/garima-bisht-2206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="bisht.garima01@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.hackerrank.com/bisht_garima01"> <img src="https://raw.githubusercontent.com/Garimabisht22/images/d1b42e9b2469b9115f3d690cf415e88c201b8688/hackerRank.svg?token=AMGMJGVGHMWM2HF7OJU4W3DBW33IK" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.hackerrank.com/bisht_garima01"> <img src="https://raw.githubusercontent.com/Garimabisht22/images/bf6802377438471a03342193bb1494dddb139f88/hackerRank.svg?token=AMGMJGT3LBXUVPXNDS5EK2LBXGKMO" alt="hackerRank" height="40" style="vertical-align:top; margin:4px"></a>
 
 </p>
 
