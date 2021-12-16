@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/Garimabisht22/images/blob/main/Hello%20fellas%20(1).png?raw=true" alt="logo" style="vertical-align:top; margin:4px"> </p>
 
-                                                        👋 Hey, I’m @Garimabisht22
+                                                     👋 Hey, I’m @Garimabisht22
      
 - ❤  I'm a Flutter Developer.     
 - 🌱 I’m currently learning Angular
