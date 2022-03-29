@@ -8,6 +8,8 @@
 - 👀 A blog not updated :: https://miss.code.blog/
 - 📫 How to reach me :: bisht.garima01@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Garimabisht22&label=Profile%20views&color=0e75b6&style=flat" alt="GarimaBisht" /> </p>
+
 ## ✉️ Find me on:
 
 <p align="center">
