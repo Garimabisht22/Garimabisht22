@@ -3,8 +3,7 @@
 
                                                      👋 Hey, I’m @Garimabisht22
      
-- ❤  I'm a Flutter Developer.     
-- 🌱 I’m currently learning Angular
+- ❤  I'm an Angular Developer.     
 - 👀 A blog not updated :: https://miss.code.blog/
 - 📫 How to reach me :: bisht.garima01@gmail.com
 
