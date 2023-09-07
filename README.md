@@ -3,7 +3,7 @@
 
                                                      👋 Hey, I’m @Garimabisht22
      
-- ❤  I'm an Angular Developer.     
+- ❤  I'm an Angular Developer. Exploring Full Stack Development.
 - 👀 A blog not updated :: https://miss.code.blog/
 - 📫 How to reach me :: bisht.garima01@gmail.com
 
